@@ -1,0 +1,7 @@
+Download all the related libraries for the program to run.
+
+Find the following libraries from the official Arduino website.
+SPI.h
+MFRC522.h
+Wire.h
+LiquidCrystal_I2C.h
